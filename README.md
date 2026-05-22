@@ -12,13 +12,7 @@
 
 ---
 
-## 🖼️ Screenshots
 
-| Home Screen | Interview Screen | Results | Analytics |
-|---|---|---|---|
-| Pick topic & difficulty | Chat with AI interviewer | Score + feedback | Track progress |
-
----
 
 ## ✨ Features
 
