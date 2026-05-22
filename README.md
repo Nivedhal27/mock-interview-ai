@@ -2,11 +2,6 @@
 
 > A smart placement preparation app that simulates real interviews using AI, gives instant feedback, and tracks your performance over time.
 
-![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat&logo=react)
-![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq%20AI-orange?style=flat)
-![Built with Vite](https://img.shields.io/badge/Built%20with-Vite-646CFF?style=flat&logo=vite)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
-
 ---
 
 ## 📱 Live Demo
