@@ -4,9 +4,7 @@
 
 ---
 
-## 📱 Live Demo
 
-🔗 **[Try it here → mock-interview-ai.vercel.app](https://mock-interview-ai.vercel.app)**
 
 > Works on mobile too — open in Chrome and tap "Add to Home Screen" to install it like a real app!
 
